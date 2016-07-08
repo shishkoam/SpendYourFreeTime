@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "silken-reducer-134023",
+  "private_key_id": "9f48a1bb4b12e44f424157e9bc4fe1355c730856",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbTCTN8gPPEvuh\nu9/HygAvNLXj38BP/ss2rJTqH73W0iawy/sybF8ToG/9gwmxEzvhFPBMmqyuV5ma\nKIdp/6b1lhVHl3USDtWbgyFwkNTfQTingckc64gfLJz77V7Xs+Ihg+BunMPhg2D/\nb8ja8uKqi4yj0s/K9VtKL/jMl+i7npOwC9GmBMFNxDnRqp7HMKQEErPIpROkblnb\nkGJiW/9qdxHf55TAE+dTrFvxNtUi8WyfnYisGKbRFTIIcXOHG1BrGisPyxEx7AZ/\ntQpZRa+4ASeUmG6P0rdz4menBvH9wZJSURN6Toafsr5jHs2vJ/aVtEVnvJsi0yOU\nMW25NXgHAgMBAAECggEBAIBLsYQqUhc6eYOt8Dvfl7Nn+nRdH0V3G275uLSKsIzO\nZIReoBGSEiHmw15OaS1O1IMohzTh+5K0cAM5RFW/jLEK4l2YtHDMrI+jD3ctT495\nFFLeF8W6l2QZuT8vZNESnNhPWJRJElI19WZRdT/ctIFsdC3LNTtY46gwZXywaubD\n2mt/7/XHnshsej62CrlMTZyb/vfMVIaaytHR9+dFuOBQrAPI2dRZoiib4xfZTuVg\nd3AN8BDajFros8hjKA3Mhsc+XNI6sYbst1B6BrHFVhkUA96pet7YDV3FPRTzymT1\n3jU1shXsLeTbj2FC8OjsG8nsL3AhdKGsVdrSNktF8YECgYEA2LYgF90rYVriUcly\nIoPr9kenBOTUO7Rm41qQt8KHbDsjzmahS0a3uxXXQRDmKscXgc70j7hr1LS23Yhx\nHZ5R3I+aNLI2VmvnHJgc+J7XAbZ4QswO2kL6EqDAq2VD/feHjDCnn/dvKIHNgRsu\nTyr5zkv3DGT5T3lZDkhrByaHjeECgYEAt3O1+hTYLjwxkNO5wo6RAhWu+A6EBqFE\nqzi8qu43z9u7HVLWuqn/egfOfJyQ5pWw3ycRbf4cvlbwEAxB4wHHK7k0bDExpPMP\nVXCMPjG3yhcV+PEP5M/wXpdfYQcsdrh7ixYdqEzCsjDNRAd2dK6d5LOT5A9/KDQu\nkwj9+M/+sucCgYAuJEkdC6hq6DD7/QpiMviQzZzQO/C8baLikavylGbFMqpjDhMV\ntg70tKfKYNDBFvb4WppT545+EaRF8wEyrzz621CYG8HaEMt6mSDCBv/8i197yXr4\nGf6o7LVZSQx7DLM9tDZcpxBx7YFWFfV8QchCloYZi35R36KImf6/3QJLwQKBgD/2\nRiKVlfI45oc6avAcyQ5TBRhT51BwdgLE23M1b5w3XnwQ3/FhSEQB6MqlxBfBZVPI\nyVjyWo86vKS7wVUmz4y9HDwEwuxiGpyNizg8GXqKpgyP8By1K3evi3/HAoe6Nsj9\nwwVlDhUW0tq/R1vTbhXJTu0bQhiAaSS24+YWjxVNAoGBAKKAqobzvZSURxgalF2p\n9RZleLwq3bO8nBdgh41oy1QggMjNAxOCb9vc+87CZW+IimfUvnBnAGS7tYeYXsPF\nYG8qLzmKaOyELTtJJu3u1fvN1Trb/Ora66H5/vtG2tJP0651ZkS5PFIFwQ8mZqfD\nJMQo/kRDSm2XD2KO5hwRFLYU\n-----END PRIVATE KEY-----\n",
+  "client_email": "silken-reducer-134023@appspot.gserviceaccount.com",
+  "client_id": "107519818311618959237",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/silken-reducer-134023%40appspot.gserviceaccount.com"
+}

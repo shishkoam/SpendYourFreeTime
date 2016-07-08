@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "279623017618",
+    "firebase_url": "https://spendyourfreetime-f284e.firebaseio.com",
+    "project_id": "spendyourfreetime-f284e",
+    "storage_bucket": "spendyourfreetime-f284e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279623017618:android:cccf92d98de4fbba",
+        "android_client_info": {
+          "package_name": "shishkoam.spendyourfreetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279623017618-4js376qo259gm4jionp3460e3jjgged2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shishkoam.spendyourfreetime",
+            "certificate_hash": "3B47BD0B9C5E2E9E9A656748AEA3351B27972D9F"
+          }
+        },
+        {
+          "client_id": "279623017618-iiut8hlib3got0dp8mcpvis8g12861fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB46b-q8h_lsV_DKydlWtVpwio8LCeDqfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279623017618-iiut8hlib3got0dp8mcpvis8g12861fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
